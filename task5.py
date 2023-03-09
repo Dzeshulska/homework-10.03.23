@@ -3,4 +3,4 @@ def is_exit():
     return result.lower()
 
 is_running = True
-while is_running :
+
